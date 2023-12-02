@@ -1,0 +1,2 @@
+## Desafío 4
+Este es el cuarto desafío del bootcamp Desafío LATAM. Consistía en crear una página de cupones con bootstrap a partir de un template. Dicha página, además, debía incluir un diseño responsivo.
